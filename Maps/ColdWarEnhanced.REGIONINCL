@@ -1,0 +1,243 @@
+&&REGIONINCL	
+101    //    Egypt
+102    //    Libya
+103    //    Algeria
+104    //    French Morocco
+105    //    Spanish Sahara
+106    //    Tunisia
+189    //    Spanish Morocco
+204    //    Cameroun
+209    //    Gambia
+210    //    Gold Coast (Ghana)
+212    //    Portuguese Guinea (Guinea-Bissau)
+213    //    Liberia
+217    //    Sierra Leone
+219    //    Cape Verde
+224    //    Sao Tome and Principe
+227    //    British Togoland
+286    //    Nigeria
+288    //    French West Africa
+289    //    French Equatorial Africa
+301    //    British East Africa (Kenya)
+302    //    Eritrea
+303    //    Ethiopia
+304    //    Italian Somaliland (Somalia)
+306    //    French Somaliland (Djibouti)
+398    //    Sudan
+309    //    Uganda
+310    //    Tanganyika (Tanzania)
+311    //    British Somaliland
+388    //    Ruanda-Urundi
+401    //    South Africa
+402    //    Basutoland (Lesotho)
+403    //    South West Africa (Namibia)
+404    //    Malagasy Republic (Madagascar)
+405    //    Bechuanaland (Botswana)
+406    //    Mozambique
+407    //    Nyasaland (Malawi)
+408    //    Swaziland
+409    //    Southern Rhodesia (Zimbabwe)
+410    //    Angola
+411    //    Northern Rhodesia (Zambia)
+415    //    Spanish Guinea. (Equat Guinea)
+416    //    Comoros
+417    //    Mauritius
+418    //    Mayotte
+419    //    Reunion
+420    //    Seychelles
+488    //    Belgian Congo Dem. Republic of the
+501    //    Israel
+503    //    Hashemite Kingdom of Jordon
+601    //    Iran
+602    //    Iraq
+603    //    Kuwait
+605    //    Qatar
+606    //    Saudi Arabia
+607    //    Syria
+608    //    Lebanon
+609    //    Turkey
+610    //    Trucial Oman (UAE)
+611    //    Mutawakkilite Kingdom of Yemen
+612    //    Kurdistan
+613    //    Bahrain
+615    //    Eastern Yemen/Aden Potectorate
+604    //    Muscat and Oman
+616    //    Turkish Straits=
+889    //    USSR
+907    //    Nepal
+908    //    Bhutan
+909    //    Ceylon (Sri Lanka)
+910    //    Pakistan
+911    //    Afghanistan
+912    //    East Paskistan (Bangladesh)
+917    //    Maldives
+989    //    India
+1007    //    Albania
+1110    // Latvia
+1111    // Lithuania
+1112    // Estonia
+1090    //    Yugoslavia
+1104    //    Romania
+1105    //    Bulgaria
+1106    //    Poland
+1107    //    Hungary
+1114    //    Greece
+1198    //    Cyprus
+1189    //    Czechoslovakia
+1203    //    Finland
+1204    //    Sweden
+1205    //    Iceland
+1298    //    Denmark
+1299    //    Norway
+1306    //    Ireland
+1389    //    United Kingdom
+1402    //    East Germany
+1404    //    Austria
+1489    //    West Germany
+1505    //    Malta
+1589    //    Italy
+1605    //    Luxembourg
+1603    //    Belgium
+1604    //    Netherlands
+1689    //    France
+1704    //    Gibraltar
+1705    //    Andorra
+1788    //    Portugal
+1789    //    Spain
+1801    //    Switzerland
+1901    //    Taiwan
+1902    //    Hong Kong
+1909    //    Mongolia
+1910    //    Macau
+1989    //    China
+2001    //    Japan
+2002    //    N Korea
+2003    //    S Korea
+2101    //    Thailand
+2103    //    Myanmar
+2106    //    Philippines
+2107    //    Indonesia
+2108    //    Portuguese Timor (East Timor)
+2109    //    Netherlands New Guinea (West Papua)
+2110    //    Papua New Guinea
+2111    //    Malaysia
+2112    //    Brunei
+2113    //    Singapore
+2102    //    North Vietnam
+2104    //    Cambodia
+2105    //    Laos
+2114    //    South Vietnam
+2116    //    Sarawak
+2117    //    Sabah
+2297    //    Australia
+2202    //    New Zealand
+2203    //    Fiji
+2204    //    French Polynesia
+2206    //    New Caledonia
+2207    //    Solomon Islands
+2208    //    Vanuatu
+2301    //    Argentina
+2302    //    Bolivia
+2303    //    Brazil
+2304    //    Chile
+2305    //    Colombia
+2306    //    Ecuador
+2307    //    French Guiana
+2308    //    British Guiana (Guyana)
+2309    //    Paraguay
+2310    //    Peru
+2311    //    Dutch Guiana (Suriname)
+2312    //    Uruguay
+2313    //    Venezuela
+2314    //    Falklands
+2414    //    St. Pierre Miqelon
+2499    //    Canada
+2501    //    Bahamas
+2502    //    Bermuda
+2503    //    Dom. Republic
+2504    //    Haiti
+2505    //    Jamaica
+2727    //    Cuba
+2510    //    Cayman Islands
+2511    //    Antigua and Barbuda
+2512    //    Aruba
+2513    //    Barbados
+2514    //    Dominica
+2515    //    Grenada
+2516    //    Guadeloup
+2517    //    Martinique
+2518    //    Neth. Antilles
+2519    //    St Kitts & Nevis
+2520    //    Saint Lucia
+2521    //    Grenadines
+2522    //    Trinidad and Tobago
+2523    //    Anguilla
+2601    //    Mexico
+2602    //    El Salvador
+2603    //    Guatemala
+2604    //    Honduras
+2605    //    Nicaragua
+2606    //    Panama
+2607    //    Costa Rica
+2608    //    Belize
+2989    //    United States for CW
+2609    //    Panama Canal Zone
+1405    //    Saarland
+502    //    Palestine
+504    //    Transjordania
+2415   //Alaska non-state
+2209   //Hawaii non-state
+2508   //US virgin isles
+2210 //Cook islands
+2216 //W.Samoa
+2217 //American Samoa
+
+//Kept regions
+107
+108
+202
+203
+205
+206
+207
+208
+211
+215
+218
+225
+226
+305
+307
+412
+413
+414
+423
+612    //    Kurdistan
+809
+810
+905    //    Kashmir
+1001
+1002
+1003
+1004
+1005
+1006
+1008
+1115
+1108
+1109
+1198
+1206
+1303
+1305
+1504
+1908
+2211
+2402
+2507    //   Puerto Rico now a colony
+2205    //   Guam now a colony
+2212	//   Yap, Micronesia
+2213	//   Northern Mariana
+916	//   Goa
+109	//   Suez Canal Zone
+
