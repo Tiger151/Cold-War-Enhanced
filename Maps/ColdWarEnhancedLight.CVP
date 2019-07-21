@@ -3559,7 +3559,7 @@ theatrehome    11
 &&CVP		214
 regionname	"Mali Federation"
 prefixname	""
-altregionname	"Mali Federation", "Mali", ""
+altregionname	"Mali", "", ""
 blocknum       2
 altblocknum    
 continentnum   1
@@ -5688,7 +5688,7 @@ theatrehome    11
 &&CVP		288
 regionname	"West Africa"
 prefixname	""
-altregionname	"Mauritania", "", ""
+altregionname	"Mauritania", "Mauritania", ""
 blocknum       2
 altblocknum    
 continentnum   1
