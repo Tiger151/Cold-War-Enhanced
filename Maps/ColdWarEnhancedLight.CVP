@@ -2797,7 +2797,7 @@ parentloyalty  0.05
 independencetarget 2437267
 sphere         0
 civiliansphere 0
-keepregion     1
+keepregion     0
 parentregion   
 theatrehome    11
 
@@ -3557,9 +3557,9 @@ theatrehome    11
 7, 0.15, 
 
 &&CVP		214
-regionname	"Sudan"
+regionname	"Mali Federation"
 prefixname	""
-altregionname	"Mali", "", ""
+altregionname	"Mali Federation", "Mali", ""
 blocknum       2
 altblocknum    
 continentnum   1
@@ -3623,11 +3623,12 @@ parentloyalty  0.05
 independencetarget 2437167
 sphere         -0.5
 civiliansphere -0.25
-keepregion     0
+keepregion     1
 parentregion   
 theatrehome    11
 
 &&GROUPING		214
+216,
 
 &&REGIONTECHS		214
 1051,
@@ -5687,7 +5688,7 @@ theatrehome    11
 &&CVP		288
 regionname	"West Africa"
 prefixname	""
-altregionname	"Mali Federation", "Mali", ""
+altregionname	"Mauritania", "", ""
 blocknum       2
 altblocknum    
 continentnum   1
@@ -5763,8 +5764,8 @@ theatrehome    11
 211, 
 215, 
 218,  
-216,
 214,
+216,
 
 &&REGIONTECHS		288
 1051,
