@@ -141,10 +141,14 @@ Update 9:
 *Adjusted Italian units.
 *Adjusted to new localization system.
 *Other minor event fixes.
+*Fixed W.Africa decolonization again. :)
+*Egypt coup 1953 is now a 100% chance.
+*Mali Federation is back and working when it should.
 
 
 Planned/In Works:
 -Optimizations.
+-Fixes.
 
 Far-Fetch Ideas:
 -Feel free to mention any at http://group.exxer.net/suggest
