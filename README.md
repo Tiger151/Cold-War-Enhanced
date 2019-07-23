@@ -138,12 +138,14 @@ Update 9:
 		WW3, Playable colonies.
 		(Large performance issues ATM.)
 *Fixed Operation Ajax.
+*Laos and Cambodia will now be released as communist Warsaw alligned countries if N.Vietnam takes them over.
 *Adjusted Italian units.
 *Adjusted to new localization system.
 *Other minor event fixes.
 *Fixed W.Africa decolonization again. :)
 *Egypt coup 1953 is now a 100% chance.
 *Mali Federation is back and working when it should.
+*Some event optimizations.
 
 
 Planned/In Works:
