@@ -147,6 +147,11 @@ Update 9:
 *Mali Federation is back and working when it should.
 *Some event optimizations.
 
+Update 10:
+-Changed major nation colors to unique ones.
+-Finished Indochina events.
+-Added small future events for Cambodia and Laos(Historic playthrought).
+*Gave US direct control of Pearl Harbor, and Anchorage Port.
 
 Planned/In Works:
 -Optimizations.
