@@ -14411,7 +14411,7 @@ altblocknum
 continentnum   2
 flagnum        104
 musictrack     2
-regioncolor    0x
+regioncolor    0xFFC8A05A
 politic        0.5
 govtype        1
 refpopulation  21.122
@@ -23693,7 +23693,7 @@ altblocknum
 continentnum   4
 flagnum        165
 musictrack     5
-regioncolor    0x
+regioncolor    0xFF7D0000
 politic        -1
 govtype        3
 refpopulation  24.824
@@ -26446,7 +26446,7 @@ altblocknum
 continentnum   4
 flagnum        152
 musictrack     5
-regioncolor    0x
+regioncolor    0xFF0064FF
 politic        -0.5
 govtype        1
 refpopulation  7.014
@@ -28225,7 +28225,7 @@ altblocknum
 continentnum   4
 flagnum        181
 musictrack     5
-regioncolor    0x
+regioncolor    0xFF40C575
 politic        -0.5
 govtype        1
 refpopulation  2.963
@@ -28376,7 +28376,7 @@ altblocknum
 continentnum   4
 flagnum        13
 musictrack     19
-regioncolor    0x
+regioncolor    0xFFFF0000
 politic        0
 govtype        1
 refpopulation  
@@ -28502,7 +28502,6 @@ theatrehome    12
 1050, 
 955, 
 1194,
-1195, 
 1170, 
 1598,
 
@@ -29658,7 +29657,7 @@ altblocknum
 continentnum   4
 flagnum        367
 musictrack     17
-regioncolor    0x
+regioncolor    0xFFC0C0C0
 politic        -1
 govtype        3
 refpopulation  13.884
@@ -30249,7 +30248,7 @@ altblocknum
 continentnum   16
 flagnum        158
 musictrack     5
-regioncolor    0x
+regioncolor    0xFFDCDCDC
 politic        0
 govtype        1
 refpopulation  6.935
@@ -30512,7 +30511,7 @@ altblocknum
 continentnum   4
 flagnum        14
 musictrack     17
-regioncolor    0x
+regioncolor    0xFF816660
 politic        0.5
 govtype        1
 refpopulation  
@@ -32730,7 +32729,7 @@ altblocknum
 continentnum   4
 flagnum        188
 musictrack     5
-regioncolor    0x
+regioncolor    0xFFE1B400
 politic        0
 govtype        1
 refpopulation  8.639
@@ -32892,7 +32891,7 @@ altblocknum
 continentnum   4
 flagnum        189
 musictrack     5
-regioncolor    0x
+regioncolor    0xFFFF7D00
 politic        -0.5
 govtype        1
 refpopulation  10.114
@@ -33390,7 +33389,7 @@ altblocknum
 continentnum   4
 flagnum        16
 musictrack     15
-regioncolor    0x
+regioncolor    0xFF0080C0
 politic        -0.5
 govtype        1
 refpopulation  
@@ -33509,7 +33508,6 @@ theatrehome    12
 129, 
 955, 
 1194, 
-1195, 
 1170, 
 1616,
 1546,
@@ -33617,6 +33615,8 @@ theatrehome    12
 2129,
 2113,
 2198,
+4104,
+4201,
 
 &&REGIONPRODUCTS		1689
 
@@ -34993,7 +34993,7 @@ altblocknum
 continentnum   4
 flagnum        391
 musictrack     5
-regioncolor    0x
+regioncolor    0xFFFF8080
 politic        
 govtype        4
 refpopulation  
@@ -35747,7 +35747,7 @@ altblocknum    20
 continentnum   5
 flagnum        200
 musictrack     4
-regioncolor    0x
+regioncolor    0xFF148C14
 politic        1
 govtype        4
 refpopulation  7.981
@@ -36749,7 +36749,7 @@ altblocknum
 continentnum   5
 flagnum        386
 musictrack     4
-regioncolor    0x000000
+regioncolor    0xFFFF69CF
 politic        -1
 govtype        3
 refpopulation  0.779
@@ -37001,7 +37001,7 @@ altblocknum
 continentnum   5
 flagnum        203
 musictrack     4
-regioncolor    0xFFD700
+regioncolor    0xFFFFFF00
 politic        -1
 govtype        3
 refpopulation  
@@ -37329,7 +37329,7 @@ altblocknum
 continentnum   5
 flagnum        194
 musictrack     4
-regioncolor    0xFFFFFF
+regioncolor    0xFF7DA0BE
 politic        0
 govtype        1
 refpopulation  83.805
@@ -41051,7 +41051,7 @@ altblocknum
 continentnum   6
 flagnum        221
 musictrack     3
-regioncolor    0x
+regioncolor    0xFFB4B4B4
 politic        0
 govtype        1
 refpopulation  1.908
@@ -42781,7 +42781,7 @@ altblocknum
 continentnum   6
 flagnum        220
 musictrack     3
-regioncolor    0x
+regioncolor    0xFF8A0FA9
 politic        0
 govtype        1
 refpopulation  
@@ -43534,7 +43534,7 @@ altblocknum
 continentnum   7
 flagnum        453
 musictrack     9
-regioncolor    0x
+regioncolor    0xFF00CC00
 politic        -0.5
 govtype        1
 refpopulation  53.443
@@ -47557,7 +47557,7 @@ altblocknum
 continentnum   10
 flagnum        360
 musictrack     1
-regioncolor    0x
+regioncolor    0xFFA0DC00
 politic        0
 govtype        1
 refpopulation  
@@ -58322,7 +58322,7 @@ altblocknum
 continentnum   10
 flagnum        362
 musictrack     18
-regioncolor    0x
+regioncolor    0xFF4BaFFF
 politic        0.5
 govtype        1
 refpopulation  
@@ -58446,7 +58446,6 @@ electiondate   2434320
 1050, 
 955, 
 1194, 
-1195, 
 907, 
 922, 
 921, 

@@ -152,6 +152,8 @@ Update 10:
 -Finished Indochina events.
 -Added small future events for Cambodia and Laos(Historic playthrought).
 *Gave US direct control of Pearl Harbor, and Anchorage Port.
+*Removed automated assembly lines from US, UK, France.
+*Gave France more artillery.
 
 Planned/In Works:
 -Optimizations.
