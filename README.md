@@ -133,7 +133,7 @@ Update 8:
 *Other minor fixes. 
 
 Update 9:
--Released lightweight version.
+-Released stable lightweight version.
 	Excludes:
 		WW3, Playable colonies.
 		(Large performance issues ATM.)
@@ -151,9 +151,26 @@ Update 10:
 -Changed major nation colors to unique ones.
 -Finished Indochina events.
 -Added small future events for Cambodia and Laos(Historic playthrought).
+-Merged lightweight branch to master.
 *Gave US direct control of Pearl Harbor, and Anchorage Port.
 *Removed automated assembly lines from US, UK, France.
 *Gave France more artillery.
+
+Update 11:
+-Added 4 modes: 
+	CWE: no units with new unit alterations.
+	CWE Units: units with new unit alterations.
+	CWE Vanillia: no units with vanillia units. (Save file size saver)
+	CWE Vanillia Units: units with vanillia units.
+-Added more unique region colors.
+*Fixed China tech level
+*Removed BTR from China
+*Gave some S.E Asia nations more tech groups.
+*Fixed minor indochina loyalty spots after it falls.
+*Fixed duplicate/wrong news popups after unification events.
+*Some optimizations.
+*Fixed S.Vietnam never getting independence from france past 2nd Indochina war.
+*Altered default scenario settings.
 
 Planned/In Works:
 -Optimizations.

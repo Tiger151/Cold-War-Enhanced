@@ -35763,7 +35763,7 @@ defcon         1
 loyalty        
 playeragenda   
 playeraistance     0
-worldavail     V
+worldavail     VW
 armsavail      
 worldintegrity     
 treatyintegrity    0.75
@@ -37072,29 +37072,33 @@ theatrehome    1
 1906,
 
 &&REGIONTECHS		1989
-1170, 
-1545,
-1546,
-1547,
-1552,
+1051,
+1182,
+1188,
+1727,
+1005,
+1004,
+1576,
+1725,
 1602,
-1603,
-1604,
-949,
-1610,
+945,
 1611,
-1616,
-1615,
-1312,
-1313,
-1849,
-1843,
+1670,
+1330,
+1624,
+1743,
+1549,
+1607,
+1739,
+1141,
+1577,
 1846,
-1542,
-1541,
-1684,
-1620,
-1621,
+1849,
+1672,
+1734,
+1592,
+1313,
+1312,
 
 &&REGIONUNITDESIGNS		1989
 365,
@@ -37109,8 +37113,7 @@ theatrehome    1
 66, 
 19350, 
 20300, 
-6101, 
-42, 
+6101,  
 16, 
 22, 
 59, 
@@ -38849,7 +38852,7 @@ defcon         0
 loyalty        
 playeragenda   
 playeraistance     0
-worldavail     V
+worldavail     VYW
 armsavail      
 worldintegrity     0.55
 treatyintegrity    0.75
