@@ -156,7 +156,7 @@ Update 10:
 *Removed automated assembly lines from US, UK, France.
 *Gave France more artillery.
 
-Update 11:
+Update 10.1:
 -Added 4 modes: 
 	CWE: no units with new unit alterations.
 	CWE Units: units with new unit alterations.
@@ -172,15 +172,38 @@ Update 11:
 *Fixed S.Vietnam never getting independence from france past 2nd Indochina war.
 *Altered default scenario settings.
 
+Update 11:
+-Suez Cannal loyalty changes to Egypt on nationalization.
+-Zambia will now come into existance with name and flag.
+-Added Mali Federation flag.
+-Added Belgian Congo flag.
+-Added Georgy Malenkov breif leadership of USSR.
+-Made unit production facilities cost more.
+-Made research centers cost more.
+*Map rendering has been optimized.
+*Removed all decolonization conditions.
+*Fixed N.Vietnam victory sucession.
+*Fixed Iranian Revolution gov change type.
+*Fixed Mali Federation name change.
+*Fixed Spanish Morocco indpendence not merging.
+*Malay States propertly changes to Malaysia. 
+*Removed multiple Mali Federation news popups.
+*Brazil will now switch to a random leader after death of Getúlio Vargas.
+*Updated startup email.
+
+
 Planned/In Works:
 -Optimizations.
 -Fixes.
 
 Far-Fetch Ideas:
 -Feel free to mention any at http://group.exxer.net/suggest
+-Join our Discord: https://discord.gg/bYvRMUP
 
 Credits:
 Viper151       - Lead Director / Scriptwriter
 Screenblast89  - Historic Advisor / Map Editor
-defcon252-2009 - Tester
-Hogan007 - Tester
+defcon252-2009 - QA
+Duck           - QA
+Hogan007       - QA
+Warvic         - QA
