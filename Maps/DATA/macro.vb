@@ -38,17 +38,22 @@ Sub test()
                 If (Cells(i, 1).Value = 21038) Then
                     Cells(i, 28).Value = Cells(i, 28).Value * 0.25
                     count_f = count_f + 1
-                    MsgBox "Hydro 1"
                 End If
                 If (Cells(i, 1).Value = 21037) Then
                     Cells(i, 28).Value = Cells(i, 28).Value * 0.25
                     count_f = count_f + 1
-                    MsgBox "Hydro 2"
                 End If
                 If (IsNumeric(Cells(i, 113).Value)) Then
                     Cells(i, 113).Value = Cells(i, 113).Value * 2
                     count_f = count_f + 1
                 End If
+				'Unit productions / research centers
+				If (Cells(i, 1).Value = 21212 OR Cells(i, 1).Value = 21211 OR Cells(i, 1).Value = 21210 OR Cells(i, 1).Value = 21213 OR Cells(i, 1).Value = 21100) Then
+					Cells(i, 26).Value = Cells(i, 26).Value * 3
+					Cells(i, 27).Value = Cells(i, 27).Value * 2
+					count_f = count_f + 1
+				End If
+				
         End Select
         
     Next i

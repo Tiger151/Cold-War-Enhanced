@@ -3559,11 +3559,11 @@ theatrehome    11
 &&CVP		214
 regionname	"Mali Federation"
 prefixname	""
-altregionname	"Mali", "", ""
+altregionname	"Mali", "Mali Federation", ""
 blocknum       2
 altblocknum    
 continentnum   1
-flagnum        59
+flagnum        713
 musictrack     8
 regioncolor    0x
 politic        -1
@@ -11806,7 +11806,7 @@ independencetarget 2438395
 sphere         0.25
 civiliansphere -0.25
 keepregion     0
-parentregion   
+parentregion  
 theatrehome    9
 
 &&GROUPING		487
@@ -11831,7 +11831,7 @@ altregionname	"Zaire", "", ""
 blocknum       
 altblocknum    
 continentnum   1
-flagnum        188
+flagnum        714
 musictrack     6
 regioncolor    0x
 politic        0.5
@@ -39527,7 +39527,7 @@ theatrehome    4
 &&CVP		2111
 regionname	"Malaya"
 prefixname	""
-altregionname	"", "", ""
+altregionname	"Malaysia", "", ""
 blocknum       21
 altblocknum    
 continentnum   5

@@ -2078,9 +2078,9 @@
 997, "Region Falls", "%s Has been Eliminated", "%s today ceased to exist.  The last remnants of their central government have fled.", "%s today ceased to exist.  Officials could not be reached for comment.", "", "Acknowledge", "", "", ""
 998, "Military Buildup Potential", "Military Production Potential Leader - %s", "For your information, %s currently operates the most Military Unit Production Facilities.", "", "", "Acknowledge", "", "", ""
 999, "Capital City Captured", "%s Capital City (%s) Captured", "Congratulations.  We have captured %s 's Capital (%s).", "", "", "Acknowledge", "", "", ""
-
-3000, "Welcome", "", "Thank you for downloading Cold War Enhanced. Your support is appreciated. Please report any bugs and suggestions/ideas at: group.exxer.net/suggest   Enjoy! v1.0", "", "", "", "", "",
-3001, "Saarland Lost", "", "With the fall of the West German government, France has effectively withdrawn from Saarland after major instability leaving the region now under communist control.", "", "", "", "", "", "", 
+                                                                                                                                           ", "", "", "", "",
+3000, "Welcome", "", "Thank you for downloading Cold War Enhanced. Your support is appreciated. Please report any bugs and suggestions/ideas at: group.exxer.net/suggest   Enjoy! v1.1 ", "", "", "", "Acknowledge", "", "", 
+3001, "Saarland Lost", "", "With the fall of the West German government, France has effectively withdrawn from Saarland after major instability, leaving the region now under communist control.", "", "", "", "", "", "", 
 3002, "North Korea Defeated!", "", "Since independence in 1948 Korea is once again united free from foreign occupation under the influence of capitalism. Lead leader Syngman Rhee all remaining communists are forced underground as anti-communist government measures are taken to wipe out remaining communist sympathizers.", "", "", "", "", "", "",
 3003, "South Korea Defeated!", "", "Since independence in 1948 Korea is once again united free from foreign occupation under the influence of communism. Lead Korean Premier Kim Il-Sung Korea is to be fully restored to glory with the revival of traditional Korean culture. Soviet and Chinese aid is given in the form of weapons and finances to the Koreans to stabilize the new regime.", "", "", "", "", "", "",
 3004, "North Vietnam Defeated!", "", "The war in Vietnam is over with a unified Vietnam now in power under the direct influence of the west.", "", "", "", "", "", "",
