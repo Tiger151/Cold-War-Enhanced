@@ -147,7 +147,7 @@ Update 9:
 *Mali Federation is back and working when it should.
 *Some event optimizations.
 
-Update 10:
+Update 10(1.0):
 -Changed major nation colors to unique ones.
 -Finished Indochina events.
 -Added small future events for Cambodia and Laos(Historic playthrought).
@@ -156,7 +156,7 @@ Update 10:
 *Removed automated assembly lines from US, UK, France.
 *Gave France more artillery.
 
-Update 10.1:
+Update 11(1.1):
 -Added 4 modes: 
 	CWE: no units with new unit alterations.
 	CWE Units: units with new unit alterations.
@@ -172,7 +172,7 @@ Update 10.1:
 *Fixed S.Vietnam never getting independence from france past 2nd Indochina war.
 *Altered default scenario settings.
 
-Update 11:
+Update 12(1.2):
 -Suez Cannal loyalty changes to Egypt on nationalization.
 -Zambia will now come into existance with name and flag.
 -Added Mali Federation flag.
@@ -190,6 +190,24 @@ Update 11:
 *Removed multiple Mali Federation news popups.
 *Brazil will now switch to a random leader after death of Getúlio Vargas.
 *Updated startup email.
+
+Update 13(1.3):
+-Added custom Iraq flags and change over events.
+-Added custom Syria flags and change over events.
+-Gave Congo, North Congo loyalty.
+-Gave Czechoslovakia, Czech loyalty.
+-Gave Yugoslavia, Serbia loyalty.
+-Added Warsaw Pact and NATO hotspots in Europe.
+-Warsaw Pact nations no longer become NATO leaning so easily.
+*Fixed missing sudan independence email.
+*Fixed issue reguarding aden protectrate not being absorbed by Yemen.
+*The First Indochina War now will come to peace on correct date.
+*Reversed Mali Federation emails.
+*Altered colors of various countries.
+*Forced Suez Cannal Crisis.
+*Minor First Indochina War fixes.
+*Adjusted USSR agression and behavior.
+*Fixed Egypt flag popups.
 
 
 Planned/In Works:

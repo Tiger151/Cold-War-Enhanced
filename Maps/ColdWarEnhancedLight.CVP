@@ -10202,7 +10202,7 @@ parentloyalty  0.1
 independencetarget 2437116
 sphere         0.5
 civiliansphere 0
-keepregion     1
+keepregion     0
 parentregion   
 theatrehome    11
 
@@ -18364,7 +18364,7 @@ fanaticism
 defcon         1
 loyalty        
 playeragenda   
-playeraistance     0
+playeraistance     2
 worldavail     R
 armsavail      
 worldintegrity     0.5
@@ -18398,8 +18398,8 @@ capitalx       1021
 capitaly       124
 masterdata     0
 nonplayable    0
-influence      25, 50, 43, 21
-influenceval   0.4, 0.75, 0.75, -0.5
+influence      25, 50, 43, 33
+influenceval   0.4, 0.75, 0.75, 0.5
 couppossibility    0.3
 revoltpossibility  0.2
 independencedesire 
@@ -21908,7 +21908,7 @@ parentloyalty  0.3
 independencetarget 2448002
 sphere         -0.75
 civiliansphere -0.5
-keepregion     1
+keepregion     0
 parentregion   
 theatrehome    13
 
@@ -22241,8 +22241,8 @@ revoltpossibility  0.2
 independencedesire 
 parentloyalty  
 independencetarget 
-sphere         -0.75
-civiliansphere -0.25
+sphere         -1
+civiliansphere -0.50
 keepregion     0
 parentregion   
 theatrehome    13
@@ -22503,8 +22503,8 @@ revoltpossibility  0.35
 independencedesire 
 parentloyalty  
 independencetarget 
-sphere         -0.5
-civiliansphere 0
+sphere         -0.75
+civiliansphere -0.75
 keepregion     0
 parentregion   
 theatrehome    13
@@ -23439,8 +23439,8 @@ revoltpossibility  0.45
 independencedesire 
 parentloyalty  
 independencetarget 
-sphere         -0.75
-civiliansphere -0.25
+sphere         -1
+civiliansphere -0.75
 keepregion     0
 parentregion   
 theatrehome    13
@@ -23594,7 +23594,7 @@ independencedesire
 parentloyalty  
 independencetarget 
 sphere         -1
-civiliansphere -0.5
+civiliansphere -0.75
 keepregion     0
 parentregion   
 theatrehome    13
@@ -23750,7 +23750,7 @@ independencedesire 0.8
 parentloyalty  0.15
 independencetarget 
 sphere         -1
-civiliansphere 0.25
+civiliansphere -0.75
 keepregion     0
 parentregion   
 theatrehome    13
@@ -23905,7 +23905,7 @@ independencedesire 0.9
 parentloyalty  0.15
 independencetarget 
 sphere         -1
-civiliansphere 0.25
+civiliansphere -0.50
 keepregion     0
 parentregion   
 theatrehome    13
@@ -24178,7 +24178,7 @@ parentloyalty  0.18
 independencetarget 2448989
 sphere         -0.5
 civiliansphere 0.25
-keepregion     1
+keepregion     0
 parentregion   
 theatrehome    13
 
@@ -25377,7 +25377,7 @@ independencedesire 0.75
 parentloyalty  0.15
 independencetarget 
 sphere         -1
-civiliansphere 0
+civiliansphere -0.75
 keepregion     0
 parentregion   
 theatrehome    13
@@ -29657,7 +29657,7 @@ altblocknum
 continentnum   4
 flagnum        367
 musictrack     17
-regioncolor    0xFFC0C0C0
+regioncolor    0xC0C0C0
 politic        -1
 govtype        3
 refpopulation  13.884
@@ -29714,7 +29714,7 @@ independencedesire 0.6
 parentloyalty  
 independencetarget 
 sphere         -1
-civiliansphere -0.25
+civiliansphere -0.75
 keepregion     0
 parentregion   
 theatrehome    13
@@ -31792,7 +31792,7 @@ altblocknum
 continentnum   4
 flagnum        15
 musictrack     5
-regioncolor    0x
+regioncolor    0xFF008000
 politic        0
 govtype        1
 refpopulation  
@@ -34842,7 +34842,7 @@ altblocknum
 continentnum   4
 flagnum        192
 musictrack     5
-regioncolor    0x
+regioncolor    0x001C58
 politic        0
 govtype        4
 refpopulation  
@@ -34993,7 +34993,7 @@ altblocknum
 continentnum   4
 flagnum        391
 musictrack     5
-regioncolor    0xFFFF8080
+regioncolor    0xFF804000
 politic        
 govtype        4
 refpopulation  
@@ -42233,7 +42233,7 @@ electiondate
 &&CVP				2216
 regionname			"Western Samoa"
 prefixname			""
-altregionname		, , 
+altregionname		"Samoa", , 
 blocknum			22
 altblocknum
 continentnum		6

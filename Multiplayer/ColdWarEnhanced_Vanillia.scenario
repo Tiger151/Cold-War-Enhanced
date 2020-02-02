@@ -13,7 +13,6 @@
 #include "DEFAULT.TTRX", "MAPS\DATA\"
 #include "DEFAULT.TERX", "MAPS\DATA\"
 #include "SRCW.WMDATA", "MAPS\DATA\"
-#include "DEFAULT.NEWSITEMS", "MAPS\DATA\"
 #include "CWE.NEWSITEMS", "MAPS\DATA\"
 #include "AllSourceLoad.INI", "INI\"
 #endifset
