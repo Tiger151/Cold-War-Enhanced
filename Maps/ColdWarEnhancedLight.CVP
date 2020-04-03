@@ -8278,7 +8278,7 @@ altregionname	"", "", ""
 blocknum       
 altblocknum    
 continentnum   1
-flagnum        72
+flagnum        720
 musictrack     8
 regioncolor    0x
 politic        0
@@ -26311,7 +26311,7 @@ defcon         0
 loyalty        
 playeragenda   
 playeraistance     0
-worldavail     TS
+worldavail     S
 armsavail      
 worldintegrity     
 treatyintegrity    
