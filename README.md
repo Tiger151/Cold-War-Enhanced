@@ -209,6 +209,18 @@ Update 13(1.3):
 *Adjusted USSR agression and behavior.
 *Fixed Egypt flag popups.
 
+Update 14(1.3.1 Steam):
+-Added mod to Steam Workshop.
+-Added early Sudan flag.
+-Added Spanish localization.
+-Added French Localization.
+*Minor Fixes
+
+Update 15(1.3.2 Steam):
+-Added new map with more rubber spots and starting plantations around the world.
+-Updated mod to include previous update new mechanics.
+*Fixed unplayable Austria
+*Minor diplomatic changes.
 
 Planned/In Works:
 -Optimizations.
@@ -221,7 +233,8 @@ Far-Fetch Ideas:
 Credits:
 Viper151       - Lead Director / Scriptwriter
 Screenblast89  - Historic Advisor / Map Editor
+Brozwald       - QA / Spanish Translation
+Duck           - QA / German Translation
 defcon252-2009 - QA
-Duck           - QA
 Hogan007       - QA
 Warvic         - QA

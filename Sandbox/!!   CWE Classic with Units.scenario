@@ -25,7 +25,7 @@ mapfile "ColdWarEnhanced"
 #include "ColdWarEnhanced.OOF", "MAPS\"
 #include "ColdWar.OOB", "MAPS\ORBATS\"
 #include "AllLoad.INI", "INI\"
-#include "ColdWarEnhanced_Light.csv"
+#include "ColdWarEnhanced_Light.csv", "Sandbox\"
 #endifset
 
 #ifset 0x04

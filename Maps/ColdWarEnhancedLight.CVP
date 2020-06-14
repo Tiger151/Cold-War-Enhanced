@@ -25,6 +25,31 @@
 21, INO - Indian Ocean, INO, 21590, 1320, 500, 
 22, NEU - Northern Europe, NEU, 21500, 834, 104, 
 
+&&THEATRETRANSF
+1, 2, 3, 4, 19, 20, 8, 6, 15, 16                               // "Northeast Asia", "NAS"
+2, 1, 3, 4, 8, 19, 20, 21, 6, 15, 16, 5, 7, 9,                 // "Southeast Asia", "SAS"
+3, 1, 2, 5, 14, 21, 7, 9,                                      // "Central Asia", "CAS"
+4, 1, 2, 3, 8, 6, 19, 20, 21, 15, 16, 5, 10, 9,                // "Oceania", "OCN"
+5, 3, 4, 14, 13, 12, 11, 10, 9, 21,                            // "Middle East", "MDE"
+6, 17, 18, 19, 20, 15, 16, 7, 8, 1, 2, 4, 12, 22, 11, 9,       // "Central America", "CNA"
+7, 8, 6, 17, 18, 15, 16, 12, 22, 10, 9,                        // "Eastern North America", "ENA"
+8, 7, 6, 19, 20, 15, 16, 1, 2, 4,                              // "Western North America", "WNA"
+9, 17, 18, 7, 6, 15, 16, 21, 10, 11, 2, 3, 4, 5,               // "Southern Africa", "SAF"
+10, 9, 21, 5, 4, 3, 2, 11,                                     // "Eastern Africa", "EAF"
+11, 17, 18, 7, 6, 15, 16, 9, 10, 5, 12, 13, 22,                // "Northwest Africa", "NAF"
+12, 11, 13, 14, 17, 18, 22, 7, 6, 15, 16                       // "Western Europe", "WEU"
+13, 12, 22, 14, 5, 11, 17,                                     // "Central Europe", "CEU"
+14, 4, 5, 21, 13, 12, 22, 17,                                  // "Eastern Europe", "EEU"
+15, 6, 7, 8, 16, 19, 20, 17, 18, 1, 2, 4, 22, 12, 11, 9, 21,   // "Northern South America", "NSA"
+16, 6, 7, 8, 15, 19, 20, 17, 18, 1, 2, 4, 22, 12, 11, 9, 21,   // "Southern South America", "SSA"
+17, 15, 16, 6, 7, 18, 22, 12, 11, 9, 21,                       // "North Atlantic", "NAO"
+18, 15, 16, 6, 7, 17, 22, 12, 11, 9, 21,                       // "South Atlantic", "SAO"
+19, 1, 2, 4, 6, 8, 15, 16, 20, 21,                             // "North Pacific", "NPO"
+20, 1, 2, 4, 6, 8, 15, 16, 19, 21,                             // "South Pacific", "SPO"
+21, 17, 18, 19, 20, 2, 3, 4, 5, 9, 10,                         // "Indian Ocean", "INO"
+22, 12, 13, 14, 11, 17, 18, 7, 15, 16                          // "Northern Europe", "NEU"
+&&END			   
+																						 
 &&CVP		0
 regionname	"United Nations"
 prefixname	"UN"
@@ -37,7 +62,7 @@ musictrack
 regioncolor    0x
 politic        
 govtype        
-refpopulation  
+refpopulation  0
 poptotalarmy   
 popminreserve  
 treasury       
@@ -64,7 +89,7 @@ lifeexp
 avgchildren    
 crimerate      
 unemployment   
-gdpc           
+gdpc           420
 inflation      
 buyingpower    
 prodefficiency 
@@ -29146,7 +29171,7 @@ theatrehome    12
 1401, 
 1402, 
 1403, 
-1404, 
+1404,
 
 &&REGIONTECHS		1400
 
@@ -30245,7 +30270,7 @@ prefixname	"Austrian"
 altregionname	"", "", ""
 blocknum       14
 altblocknum    
-continentnum   16
+continentnum   4
 flagnum        158
 musictrack     5
 regioncolor    0xFFDCDCDC
